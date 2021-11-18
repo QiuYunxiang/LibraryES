@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-    s.name         = 'Library'
+    s.name         = 'LibraryES'
     s.version      = '1.0.0'
     s.summary      = 'mock ffmpeg'
     s.homepage     = 'https://github.com/QiuYunxiang/LibraryES'
